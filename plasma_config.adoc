@@ -22,3 +22,9 @@ Workspace Behavior -> Virtual Desktops
 === Shortcuts for Switching
 
 Shortcuts -> Global Shortcuts -> KWin -> Search for "switch" -> Switch on Desktop to right/left
+
+== Background Wallpapers
+
+https://mikaelgustafsson.artstation.com
+
+https://wallhaven.cc/
