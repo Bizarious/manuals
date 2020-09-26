@@ -1,0 +1,24 @@
+= KDE Plasma Customization
+
+== Themes
+
+* Use Breeze, *NOT* Breeze-Dark
+* Download Aritim Dark color scheme
+* go to /usr/share/plasma/desktoptheme/default/metadata.desktop and change in [ContrastEffect] enabled=true to false
+
+== Window Centered
+
+Window Management -> Window Behavior -> Advanced -> Windows Placement
+
+== Mouse Double-Click
+
+Workspace Behavior -> General Behavior -> Click Behavior
+
+== Virtual Desktops
+
+=== Adding:
+Workspace Behavior -> Virtual Desktops
+
+=== Shortcuts for Switching
+
+Shortcuts -> Global Shortcuts -> KWin -> Search for "switch" -> Switch on Desktop to right/left
